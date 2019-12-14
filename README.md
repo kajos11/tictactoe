@@ -1,6 +1,5 @@
 Play the game at: 
-https://gateway.pinata.cloud/ipfs/QmcFvcno7TGVRX6LX9KYudNWTRcnopMogNjhUCUbHRodgw/
-https://www.cloudflare-ipfs.com/ipfs/QmcFvcno7TGVRX6LX9KYudNWTRcnopMogNjhUCUbHRodgw/
+https://gateway.pinata.cloud/ipfs/QmSAVoStdUdpFYNmuowz4FQZgsx55hdGGQGkgJJftae4bn/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
