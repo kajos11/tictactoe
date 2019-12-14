@@ -1,0 +1,25 @@
+.connectionDiv{
+    text-align: center;
+}
+.connectionDiv span{
+    margin-bottom: 10px;
+}
+.connectionDiv div{
+    margin-top: 10px;
+}
+#clientId{
+    font-family: sans-serif;
+}
+.headingFont{
+    font-size: 16px;
+}
+.inputField{
+    border: 2px solid indigo;
+    border-radius: 20px;
+}
+.submitBtn{
+    margin-left: 5px;
+}
+.resetButton{
+    margin-bottom: 10px;
+}

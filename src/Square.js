@@ -5,6 +5,7 @@ function Square(props) {
       <span>
         <button 
         className="square" 
+        disabled={props.currentChance == false}
         onClick={()=>{props.onClick()}}>
           {props.value}
         </button>
