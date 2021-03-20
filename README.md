@@ -1,4 +1,4 @@
-Play the game at: 
+<b>Play the game at: </b>
 https://gateway.pinata.cloud/ipfs/QmSAVoStdUdpFYNmuowz4FQZgsx55hdGGQGkgJJftae4bn/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
